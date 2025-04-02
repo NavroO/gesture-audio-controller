@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 
 ## ▶️ Usage
-python app.py ./your-song.mp3 
+```python app.py ./your-song.mp3```
 
 
 ## 📂 Project Structure
